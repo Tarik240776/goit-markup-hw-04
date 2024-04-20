@@ -408,11 +408,11 @@ body {
     color: #f4f4fd;
     max-width: 264px;
 }
-.footer-wrap-post {
+.footer-social-post {
         font-weight: 500;
         font-size: 16px;
     
-        // line-height: 24px; 
+         line-height: 24px; 
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #fff;
@@ -421,8 +421,8 @@ body {
 
 .footer-soc-list {
     display: flex;
-    justify-content: space-between;
-     gap: 24px;
+    justify-content:center;
+     gap: 16px;
 }
 
 .footer-soc-item {
@@ -442,6 +442,7 @@ body {
 
 .footer-soc-icon {}
 
-.footer-main-wrap {
+.footer-main-social {
 max-width: 208px;
+
 }
