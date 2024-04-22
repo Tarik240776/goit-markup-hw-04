@@ -439,6 +439,9 @@ body {
             align-items: center;
             border-radius: 50%;
 }
+.footer-soc-link:hover,.footer-soc-link:focus {
+    background-color: #31d0aa;;
+}
 
 .footer-soc-icon {}
 
